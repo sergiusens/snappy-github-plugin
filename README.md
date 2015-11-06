@@ -6,6 +6,8 @@ Snappy is part of Ubuntu Core and enables a fully transactional Ubuntu system.
 
 ### Setting up a GOPATH
 
+This should never land!
+
 When working with the source of Go programs, you should define a path within
 your home directory (or other workspace) which will be your `GOPATH`. `GOPATH`
 is similar to Java's `CLASSPATH` or Python's `~/.local`. `GOPATH` is documented
